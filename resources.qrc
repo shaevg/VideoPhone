@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>sound/ringraw.wav</file>
+        <file>sound/beepraw.wav</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>image/eleron_favicon.ico</file>
+        <file>image/sound.png</file>
+        <file>image/soundOff.png</file>
+        <file>image/fullScreen.png</file>
+        <file>image/normScreen.png</file>
+        <file>image/eleron_favicon.png</file>
+        <file>image/logo-eleron.png</file>
+        <file>image/logo-rosatom.png</file>
+    </qresource>
+</RCC>
